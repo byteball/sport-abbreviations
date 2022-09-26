@@ -1,0 +1,19 @@
+{
+  "name": "sport-abbreviations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "abbreviations.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taump/sport-abbreviations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taump/sport-abbreviations/issues"
+  },
+  "homepage": "https://github.com/Taump/sport-abbreviations#readme"
+}
