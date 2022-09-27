@@ -11,6 +11,7 @@
     "url": "git+https://github.com/Taump/sport-abbreviations.git"
   },
   "author": "",
+  "files": ["*"],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Taump/sport-abbreviations/issues"
