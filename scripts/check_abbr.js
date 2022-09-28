@@ -12,7 +12,6 @@ checkSoccerCompetitionsSequentially(soccerCompetitions);
 
 async function checkSoccerCompetitionsSequentially(array) {
 	var arrMissingAbbreviations = [];
-	console.error('key', process.env.footballDataApiKey);
 	request({
 		url: "https://api.football-data.org/v2/competitions/" + array[0] + "/teams",
 		headers: {
