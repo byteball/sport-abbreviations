@@ -314,7 +314,7 @@
 			"name": "Birmingham City FC"
 		},
 		"336": {
-			"abbreviation": "BLF",
+			"abbreviation": "BLK",
 			"name": "Blackpool FC"
 		},
 		"338": {
@@ -350,7 +350,7 @@
 			"name": "Charlton Athletic FC"
 		},
 		"351": {
-			"abbreviation": "NOF",
+			"abbreviation": "NTG",
 			"name": "Nottingham Forest FC"
 		},
 		"354": {
@@ -366,11 +366,11 @@
 			"name": "Sheffield United FC"
 		},
 		"357": {
-			"abbreviation": "BAF",
+			"abbreviation": "BRS",
 			"name": "Barnsley FC"
 		},
 		"384": {
-			"abbreviation": "MIW",
+			"abbreviation": "MLW",
 			"name": "Millwall FC"
 		},
 		"385": {
@@ -466,7 +466,7 @@
 			"name": "Montpellier HSC"
 		},
 		"519": {
-			"abbreviation": "AJA",
+			"abbreviation": "AUX",
 			"name": "AJ Auxerre"
 		},
 		"521": {
@@ -638,7 +638,7 @@
 			"name": "FC Groningen"
 		},
 		"678": {
-			"abbreviation": "AJX",
+			"abbreviation": "AJA",
 			"name": "AFC Ajax"
 		},
 		"679": {
@@ -690,7 +690,7 @@
 			"name": "Celtic FC"
 		},
 		"734": {
-			"abbreviation": "MAR",
+			"abbreviation": "MRB",
 			"name": "NK Maribor"
 		},
 		"745": {
@@ -870,7 +870,7 @@
 			"name": "Preston North End FC"
 		},
 		"1103": {
-			"abbreviation": "CHV",
+			"abbreviation": "GDC",
 			"name": "GD Chaves"
 		},
 		"1106": {
@@ -914,7 +914,7 @@
 			"name": "Chapecoense AF"
 		},
 		"1775": {
-			"abbreviation": "AVF",
+			"abbreviation": "AVI",
 			"name": "Avaí FC"
 		},
 		"1776": {
@@ -998,7 +998,7 @@
 			"name": "FK Shakhtar Donetsk"
 		},
 		"1890": {
-			"abbreviation": "ZAV",
+			"abbreviation": "ZAL",
 			"name": "FK Žalgiris Vilnius"
 		},
 		"1892": {
@@ -1086,7 +1086,7 @@
 			"name": "CA Boca Juniors"
 		},
 		"2063": {
-			"abbreviation": "CSF",
+			"abbreviation": "COO",
 			"name": "CA Colón"
 		},
 		"2064": {
@@ -1194,7 +1194,7 @@
 			"name": "CS Alagoano"
 		},
 		"4245": {
-			"abbreviation": "JRS",
+			"abbreviation": "ECJ",
 			"name": "EC Juventude"
 		},
 		"4250": {
@@ -1206,7 +1206,7 @@
 			"name": "Club Bolívar"
 		},
 		"4267": {
-			"abbreviation": "CTS",
+			"abbreviation": "THS",
 			"name": "Club The Strongest"
 		},
 		"4268": {
@@ -1238,7 +1238,7 @@
 			"name": "Tombense FC"
 		},
 		"4310": {
-			"abbreviation": "BRS",
+			"abbreviation": "BRF",
 			"name": "Brusque FC"
 		},
 		"4325": {
@@ -1290,7 +1290,7 @@
 			"name": "CDC Atlético Nacional"
 		},
 		"4444": {
-			"abbreviation": "MIO",
+			"abbreviation": "MLL",
 			"name": "Millonarios FC"
 		},
 		"4455": {
@@ -1298,15 +1298,15 @@
 			"name": "Audax CS Italiano"
 		},
 		"4456": {
-			"abbreviation": "CVE",
+			"abbreviation": "EVM",
 			"name": "CD Everton"
 		},
 		"4485": {
-			"abbreviation": "MJY",
+			"abbreviation": "FCM",
 			"name": "FC Midtjylland"
 		},
 		"4520": {
-			"abbreviation": "BAR",
+			"abbreviation": "BNA",
 			"name": "Barcelona SC"
 		},
 		"4523": {
@@ -1518,7 +1518,7 @@
 			"name": "CAR Independiente del Valle"
 		},
 		"6993": {
-			"abbreviation": "CUC",
+			"abbreviation": "UCA",
 			"name": "CD Universidad Católica"
 		},
 		"7055": {
@@ -1582,11 +1582,11 @@
 			"name": "CA Central Córdoba"
 		},
 		"7868": {
-			"abbreviation": "CGU",
+			"abbreviation": "GUN",
 			"name": "Club Guaraní"
 		},
 		"7914": {
-			"abbreviation": "ZAL",
+			"abbreviation": "WZL",
 			"name": "Wuhan Zall FC"
 		},
 		"7915": {
@@ -1658,7 +1658,7 @@
 			"name": "Deportivo Lara"
 		},
 		"9377": {
-			"abbreviation": "UNC",
+			"abbreviation": "UCE",
 			"name": "Universidad Catolica"
 		},
 		"9379": {
