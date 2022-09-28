@@ -126,7 +126,7 @@
 			"name": "Norwich City FC"
 		},
 		"69": {
-			"abbreviation": "RAN",
+			"abbreviation": "QPR",
 			"name": "Queens Park Rangers FC"
 		},
 		"70": {
@@ -218,7 +218,7 @@
 			"name": "Valencia CF"
 		},
 		"98": {
-			"abbreviation": "MIL",
+			"abbreviation": "ACM",
 			"name": "AC Milan"
 		},
 		"99": {
@@ -314,7 +314,7 @@
 			"name": "Birmingham City FC"
 		},
 		"336": {
-			"abbreviation": "BLA",
+			"abbreviation": "BLF",
 			"name": "Blackpool FC"
 		},
 		"338": {
@@ -350,7 +350,7 @@
 			"name": "Charlton Athletic FC"
 		},
 		"351": {
-			"abbreviation": "FOR",
+			"abbreviation": "NOF",
 			"name": "Nottingham Forest FC"
 		},
 		"354": {
@@ -366,7 +366,7 @@
 			"name": "Sheffield United FC"
 		},
 		"357": {
-			"abbreviation": "BAR",
+			"abbreviation": "BAF",
 			"name": "Barnsley FC"
 		},
 		"384": {
@@ -422,7 +422,7 @@
 			"name": "US Sassuolo Calcio"
 		},
 		"472": {
-			"abbreviation": "CRO",
+			"abbreviation": "COR",
 			"name": "FC Crotone"
 		},
 		"488": {
@@ -562,7 +562,7 @@
 			"name": "RC Strasbourg Alsace"
 		},
 		"582": {
-			"abbreviation": "EST",
+			"abbreviation": "GEP",
 			"name": "GD Estoril Praia"
 		},
 		"583": {
@@ -638,7 +638,7 @@
 			"name": "FC Groningen"
 		},
 		"678": {
-			"abbreviation": "AJA",
+			"abbreviation": "AJX",
 			"name": "AFC Ajax"
 		},
 		"679": {
@@ -738,7 +738,7 @@
 			"name": "Brazil"
 		},
 		"765": {
-			"abbreviation": "POR",
+			"abbreviation": "PTG",
 			"name": "Portugal"
 		},
 		"766": {
@@ -822,7 +822,7 @@
 			"name": "Boavista FC"
 		},
 		"815": {
-			"abbreviation": "MAR",
+			"abbreviation": "MRO",
 			"name": "Morocco"
 		},
 		"833": {
@@ -870,7 +870,7 @@
 			"name": "Preston North End FC"
 		},
 		"1103": {
-			"abbreviation": "CHA",
+			"abbreviation": "CHV",
 			"name": "GD Chaves"
 		},
 		"1106": {
@@ -910,11 +910,11 @@
 			"name": "Cruzeiro EC"
 		},
 		"1772": {
-			"abbreviation": "CHA",
+			"abbreviation": "CHP",
 			"name": "Chapecoense AF"
 		},
 		"1775": {
-			"abbreviation": "AVA",
+			"abbreviation": "AVF",
 			"name": "Avaí FC"
 		},
 		"1776": {
@@ -998,7 +998,7 @@
 			"name": "FK Shakhtar Donetsk"
 		},
 		"1890": {
-			"abbreviation": "ZAL",
+			"abbreviation": "ZAV",
 			"name": "FK Žalgiris Vilnius"
 		},
 		"1892": {
@@ -1082,11 +1082,11 @@
 			"name": "CA Banfield"
 		},
 		"2061": {
-			"abbreviation": "BOC",
+			"abbreviation": "BOJ",
 			"name": "CA Boca Juniors"
 		},
 		"2063": {
-			"abbreviation": "COL",
+			"abbreviation": "CSF",
 			"name": "CA Colón"
 		},
 		"2064": {
@@ -1098,7 +1098,7 @@
 			"name": "CA Lanús"
 		},
 		"2067": {
-			"abbreviation": "NEW",
+			"abbreviation": "NOB",
 			"name": "CA Newell's Old Boys"
 		},
 		"2068": {
@@ -1194,7 +1194,7 @@
 			"name": "CS Alagoano"
 		},
 		"4245": {
-			"abbreviation": "JUV",
+			"abbreviation": "JRS",
 			"name": "EC Juventude"
 		},
 		"4250": {
@@ -1206,7 +1206,7 @@
 			"name": "Club Bolívar"
 		},
 		"4267": {
-			"abbreviation": "STR",
+			"abbreviation": "CTS",
 			"name": "Club The Strongest"
 		},
 		"4268": {
@@ -1238,7 +1238,7 @@
 			"name": "Tombense FC"
 		},
 		"4310": {
-			"abbreviation": "BRU",
+			"abbreviation": "BRS",
 			"name": "Brusque FC"
 		},
 		"4325": {
@@ -1254,7 +1254,7 @@
 			"name": "CSD Colo-Colo"
 		},
 		"4413": {
-			"abbreviation": "CHA",
+			"abbreviation": "CHY",
 			"name": "Changchun Yatai FC"
 		},
 		"4415": {
@@ -1290,7 +1290,7 @@
 			"name": "CDC Atlético Nacional"
 		},
 		"4444": {
-			"abbreviation": "MIL",
+			"abbreviation": "MIO",
 			"name": "Millonarios FC"
 		},
 		"4455": {
@@ -1298,11 +1298,11 @@
 			"name": "Audax CS Italiano"
 		},
 		"4456": {
-			"abbreviation": "EVE",
+			"abbreviation": "CVE",
 			"name": "CD Everton"
 		},
 		"4485": {
-			"abbreviation": "MID",
+			"abbreviation": "MJY",
 			"name": "FC Midtjylland"
 		},
 		"4520": {
@@ -1354,7 +1354,7 @@
 			"name": "AIK Fotboll"
 		},
 		"5347": {
-			"abbreviation": "SPO",
+			"abbreviation": "CSC",
 			"name": "CS Cristal"
 		},
 		"5376": {
@@ -1482,7 +1482,7 @@
 			"name": "PAOK FC"
 		},
 		"6618": {
-			"abbreviation": "CAS",
+			"abbreviation": "CPA",
 			"name": "Casa Pia AC"
 		},
 		"6667": {
@@ -1518,11 +1518,11 @@
 			"name": "CAR Independiente del Valle"
 		},
 		"6993": {
-			"abbreviation": "CAT",
+			"abbreviation": "CUC",
 			"name": "CD Universidad Católica"
 		},
 		"7055": {
-			"abbreviation": "NAC",
+			"abbreviation": "CNF",
 			"name": "Club Nacional de Football"
 		},
 		"7281": {
@@ -1546,11 +1546,11 @@
 			"name": "KÍ"
 		},
 		"7483": {
-			"abbreviation": "APO",
+			"abbreviation": "APL",
 			"name": "Apollon FC Lemesós"
 		},
 		"7485": {
-			"abbreviation": "SHK",
+			"abbreviation": "SSK",
 			"name": "FK Shkupi Skopje"
 		},
 		"7492": {
@@ -1582,7 +1582,7 @@
 			"name": "CA Central Córdoba"
 		},
 		"7868": {
-			"abbreviation": "GUA",
+			"abbreviation": "CGU",
 			"name": "Club Guaraní"
 		},
 		"7914": {
@@ -1622,7 +1622,7 @@
 			"name": "HB"
 		},
 		"8441": {
-			"abbreviation": "BAR",
+			"abbreviation": "BAC",
 			"name": "CA Barracas Central"
 		},
 		"8601": {
@@ -1634,11 +1634,11 @@
 			"name": "FC Dinamo Batumi"
 		},
 		"8912": {
-			"abbreviation": "INT",
+			"abbreviation": "ESC",
 			"name": "Inter Club d'Escaldes"
 		},
 		"8984": {
-			"abbreviation": "TIR",
+			"abbreviation": "KFT",
 			"name": "KF Tirana"
 		},
 		"9340": {
@@ -1658,7 +1658,7 @@
 			"name": "Deportivo Lara"
 		},
 		"9377": {
-			"abbreviation": "UNI",
+			"abbreviation": "UNC",
 			"name": "Universidad Catolica"
 		},
 		"9379": {
