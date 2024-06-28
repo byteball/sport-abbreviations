@@ -13,7 +13,7 @@ checkSoccerCompetitionsSequentially(soccerCompetitions);
 async function checkSoccerCompetitionsSequentially(array) {
 	var arrMissingAbbreviations = [];
 	request({
-		url: "https://api.football-data.org/v2/competitions/" + array[0] + "/teams",
+		url: "https://api.football-data.org/v4/competitions/" + array[0] + "/teams",
 		headers: {
 			'X-Auth-Token': process.env.footballDataApiKey
 		}
